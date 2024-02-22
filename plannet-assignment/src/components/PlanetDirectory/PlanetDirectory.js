@@ -1,4 +1,3 @@
-// PlanetsDirectory.js
 import React, { useState, useEffect } from 'react';
 import PlanetCard from '../PlanetCard/PlanetCard';
 import Pagination from '../Pagination/Pagination';

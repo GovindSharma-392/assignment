@@ -1,4 +1,3 @@
-// Resident.js
 import React from 'react';
 import './Resident.css';
 

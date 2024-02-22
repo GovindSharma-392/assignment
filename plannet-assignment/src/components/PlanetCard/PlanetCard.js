@@ -1,4 +1,3 @@
-// PlanetCard.js
 import React, { useState, useEffect } from 'react';
 import Resident from '../Resident/Resident';
 import './PlanetCard.css';
