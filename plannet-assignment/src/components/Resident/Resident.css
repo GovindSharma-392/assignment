@@ -1,0 +1,17 @@
+/* Resident.css */
+
+.resident {
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .resident p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  /* Add additional styles for resident details (name, height, mass, gender) as needed */
+  

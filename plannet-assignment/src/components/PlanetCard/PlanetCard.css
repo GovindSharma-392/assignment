@@ -1,0 +1,32 @@
+/* PlanetCard.css */
+
+.planet-card {
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .planet-card h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+  }
+  
+  .planet-card p {
+    margin: 0;
+    margin-bottom: 5px;
+  }
+  
+  .planet-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .planet-card li {
+    margin-bottom: 5px;
+  }
+  
+  /* Add additional styles for other elements within the planet card as needed */
+  
